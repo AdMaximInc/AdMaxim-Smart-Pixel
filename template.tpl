@@ -107,6 +107,62 @@ ___TEMPLATE_PARAMETERS___
       {
         "displayValue": "Page4",
         "value": "page4"
+      },
+      {
+        "displayValue": "Page5",
+        "value": "page5"
+      },
+      {
+        "displayValue": "Page6",
+        "value": "page6"
+      },
+      {
+        "displayValue": "Page7",
+        "value": "page7"
+      },
+      {
+        "displayValue": "Page8",
+        "value": "page8"
+      },
+      {
+        "displayValue": "Page9",
+        "value": "page9"
+      },
+      {
+        "displayValue": "Page10",
+        "value": "page10"
+      },
+      {
+        "displayValue": "RequestFile",
+        "value": "download"
+      },
+      {
+        "displayValue": "ThroughCall",
+        "value": "call"
+      },
+      {
+        "displayValue": "ThroughEmail",
+        "value": "email"
+      },
+      {
+        "displayValue": "Search/Find",
+        "value": "find"
+      },
+      {
+        "displayValue": "AskQueries",
+        "value": "ask"
+      },
+      {
+        "displayValue": "ChatSupport",
+        "value": "chat"
+      },
+      {
+        "displayValue": "EnquireNow",
+        "value": "enquirenow"
+      },
+      {
+        "displayValue": "JoinToday",
+        "value": "jointoday"
       }
     ],
     "displayName": "Conversion Type",
